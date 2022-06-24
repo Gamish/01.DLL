@@ -1,0 +1,2 @@
+﻿#define KINGDLL_API __declspec(dllexport)
+#define KINGDLL_API __declspec(dllimport)
